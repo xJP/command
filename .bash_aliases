@@ -108,3 +108,5 @@ alias htstop='sudo /etc/init.d/apache2 stop'
 
 alias py='python'
 
+
+# 4 more >> http://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html 
